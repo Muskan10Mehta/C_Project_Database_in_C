@@ -1,17 +1,20 @@
-# Project - Simple Databse in C
+# Project -  Lightweight Database in C
 
-<h3>Project description:</h3>
-  <p>This project is for implementing a simple databse using C which will perform the basic fucntions of database eg: adding, deleting, modifying, displaying, searching records etc. This type of databse can be used in embedded systems, or small projects.</p>
+# Project description
+  <p>This project is for implementing a compact database which will be light weight and fast. This will provide essential features of database management like - add,  ammend ,search, delete, sort and display. This database can be accomodated in devices with very low and constrained amount of resources like embedded systems, small scale projects etc</p>
   
-<h3>Goals:</h3>
-  <p><ol><li> To efficiently use linked lists and structs. </li>
-  <li>To make a user friendly design. </li></ol>
+# Goals
+  <p>
+  <ol>
+  <li>Make a fast and efficient structure for quick operations. </li>
+  <li>Add all essential features of a database management system.  </li>
+  <li>Make a user friendly design. </li></ol>
   </p>
   
-<h3>Specifications:</h3>
+# Specifications
   <p>For this project I will be creating a food vending machine database structure. </p>
   
-<b>Design:<b>
+# Design
   <p>
   <ol>
   <li>Struct for defining the fields and their datatypes.</li>
@@ -25,5 +28,6 @@
       <li>displayAll</li>
       </ul>
     </li>
+  </ol>
   </p>
   
