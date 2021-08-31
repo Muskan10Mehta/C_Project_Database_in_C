@@ -24,6 +24,6 @@
       <li>searchItem</li>
       <li>displayAll</li>
       </ul>
-    <li>
+    </li>
   </p>
   
