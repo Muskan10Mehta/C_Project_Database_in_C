@@ -12,7 +12,7 @@
   </p>
   
 # Specifications
-  <p>For this project I will be creating a food vending machine database structure. </p>
+  <p>For this project I will be creating a ticket/token management database structure. </p>
   
 # Design
   <p>
