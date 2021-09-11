@@ -440,7 +440,7 @@ void search(Ticket* thead, Ticket* ttail){
             if(head-> team_code == team_code_in){
 
                 Ticket* temp = head;
-                temp -> next = NULL;
+               // temp -> next = NULL;
                 display(temp);
                 flag = 1;
             }
@@ -465,7 +465,7 @@ void search(Ticket* thead, Ticket* ttail){
             if(head-> stack == stack_in){
 
                 Ticket* temp = head;
-                temp -> next = NULL;
+                //temp -> next = NULL;
                 display(temp);
                 flag = 1;
             }
